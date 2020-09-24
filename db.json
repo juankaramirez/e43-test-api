@@ -50,6 +50,12 @@
       }
    ],
    "users":[
-      
+      {
+         "firstName":"Camilo",
+         "jobTitle":"Frontend Developer",
+         "key":0,
+         "lastName":"Acosta",
+         "votes":0
+      }
    ]
 }
